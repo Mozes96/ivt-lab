@@ -1,5 +1,5 @@
 package hu.bme.mit.spaceship;
-
+// smthing
 /**
 * Defines basic spaceship functionality
 * (collects just the most important ones currently)
